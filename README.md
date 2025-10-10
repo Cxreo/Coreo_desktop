@@ -5,7 +5,9 @@ Original Files:
 https://github.com/LavenderSnek/ShimejiEE-cross-platform
 
 - How to run:
-  - Download the `mac-jre` version
+  - Download the `CoreoForDesktop_mac.zip`
+  - Double click it to unzip it
+  - Open the ShimejiEE folder
   - Open the file named `ShimejiEE-launcher`. 
   - Ignore warnings and DO NOT SELECT THROW TO TRASH, NEVER!!
   - Go to settings > Privacy nd security > scroll down until you see open anyway.
