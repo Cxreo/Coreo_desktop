@@ -1,36 +1,17 @@
 
 ShimejiEE Cross Platform
 ========================
-
+Original Files:
 https://github.com/LavenderSnek/ShimejiEE-cross-platform
 
-The releases aren't updated frequently, so build it from source for the latest release.
-
-This project is a fork of [Kilkakon's shimeji version](http://kilkakon.com/shimeji) and incorporates the work from [nonowarn's shimeji4mac](https://github.com/nonowarn/shimeji4mac)
-
-Installation
--------
-
-- macOS:
+- How to run:
   - Download the `mac-jre` version
-  - Click the file named `ShimejiEE-launcher`. 
-  - If the OS doesn't let you open it because it's from an unidentified developer: 
-    - Go to System preferences → Security & privacy → General, and make sure `App Store and Identified developers` is selected in the "Allow apps downloaded from:" section
-    - Restart you computer, just to be safe
-    - Now right-click the launcher and click open. Ignore the warnings. 
-  - If it still doesn't work, try re-downloading it directly from the GitHub releases page and make sure to unzip with Archiver.app
-
-- Linux:
-  - First consider trying out [linux-shimeji](https://github.com/asdfman/linux-shimeji), it has x11 support
-  - Download the `no-jre` version. 
-  - Still a WIP with lots of issues, but you can use java 17 to launch `ShimejiEE.jar`. 
-  - Install java from a different vendor if `libawt_xawt.so` is missing. 
-  - All program files are lowercase by default but Image-sets might break due to case sensitivity.
-
-- Windows:
-  - Download the `no-jre` version. 
-  - Untested but you can try it out; Just make sure to use java 17.
-
+  - Open the file named `ShimejiEE-launcher`. 
+  - Ignore warnings and DO NOT SELECT THROW TO TRASH, NEVER!!
+  - Go to settings > Privacy nd security > scroll down until you see open anyway.
+  - Repeat step 2, 3 and 4 until it stop showing up errors like "ooh couldn't protect your privacy" or something
+  - If it still doesn't work, try re-downloading it directly from the GitHub releases page.
+  - If you still need help, open an issue.
 
 Credits
 -------
